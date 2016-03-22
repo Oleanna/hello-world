@@ -1,6 +1,9 @@
 <?php
     header('Content-Type: text/html; charset=utf-8');
     require_once('./inc/_external_header.html');
+    
+    
+    111
 ?>
     <h2>Fresh News</h2>
 <?php
